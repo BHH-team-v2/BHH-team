@@ -234,7 +234,6 @@ return {
 
 end
 
---Copyright; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--Copyright; @Xx_minister_salib-xX
+--Persian Translate; @Xx_minister_salib_xX
+--ch : @Xx_etehad_salib_xX
